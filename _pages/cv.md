@@ -5,11 +5,11 @@ permalink: /cv/
 ---
 
 
-#CV Information Here
+# CV Information Here
 
-##Education
+## Education
 
-###Work
+### Work
 
-####Interests
+#### Interests
 

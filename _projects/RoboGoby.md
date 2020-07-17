@@ -1,6 +1,7 @@
 ---
 title: "RoboGoby"
 excerpt: "RoboGoby was designed as an inexpensive alternative for underwater researchers, dam builders, and boat yards to get a better understanding of what the world looks like underwater."
+layout: single
 header:
   image: /assets/images/robogoby/RoboGoby_CAD.png
   teaser: assets/images/robogoby/RoboGoby_CAD.png
@@ -33,7 +34,7 @@ I started this project with a few friends from high school (2013) as a side proj
 
 The submersbile is 4ft long, capable of 6 DOF, and has video streaming capabilities. Version 2 of the submerisble is below, along with a promotional video made in 2015:
 
-![RoboGoby V2]({{site.baseurl}}/images/robogoby/full_sub-on-table.jpeg "Underwater Submersible")
+![RoboGoby V2]({{site.baseurl}}/assets/images/robogoby/full_sub-on-table.jpeg "Underwater Submersible")
 
 RogoGoby V2 in Action:
 
