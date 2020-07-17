@@ -43,7 +43,7 @@ And finally an example of ClamClock keeping time:
 
 **Team:** *J.Biberstein, T. Libsack, N. Nelsonwood*
 #### Documents
-+ [Quad Chart](http://www.travislibsack.com/pdfs/ClamClock-Quad_Chart.pdf)<br>
++ [Quad Chart](/assets/pdfs/quadcharts/ClamClock-Quad_Chart.pdf)<br>
 + [Video Summary](https://www.youtube.com/watch?v=RfzfxHmwkTU)<br>
 + [Instructables](https://www.instructables.com/id/ClamClock-a-Binary-Timekeeper/)<br>
 + [KickStarter Project](https://www.kickstarter.com/projects/1773610279/clamclock-a-diy-binary-timekeeper)<br>
