@@ -1,6 +1,6 @@
 ---
 title: "RoboGoby"
-excerpt: "RoboGoby was designed as an inexpensive alternative for underwater researchers, dam builders, and boat yards to get a better understanding of what the world looks like underwater."
+excerpt: "RoboGoby was designed as an inexpensive alternative for underwater researchers, dam builders, and boat yards."
 layout: single
 header:
   image: /assets/images/robogoby/RoboGoby_CAD.png
