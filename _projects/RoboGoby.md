@@ -43,4 +43,4 @@ After 2015 RoboGoby was postponded due to lack of funding.
 **Team:** *J. Biberstein, N. Nelsonwood, T. Libsack, L. Wade*
 
 #### Documents
-+ [Quad Chart](assets/pdfs/quadcharts/RoboGoby-Quad_Chart.pdf)<br>
++ [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/RoboGoby-Quad_Chart.pdf)<br>

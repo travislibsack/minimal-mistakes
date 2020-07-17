@@ -7,7 +7,7 @@ header:
   teaser: assets/images/clamclock/clamclock_title.png
 sidebar:
   - title: "Role"
-    image: /assets/images/clamclock/ClamClock_350x250.png
+    image: /assets/images/clamclock/ClamClock_350x250.jpg
     image_alt: "logo"
     text: "Electronics Lead"
   - title: "Responsibilities"
@@ -43,7 +43,7 @@ And finally an example of ClamClock keeping time:
 
 **Team:** *J.Biberstein, T. Libsack, N. Nelsonwood*
 #### Documents
-+ [Quad Chart](assets/pdfs/quadcharts/ClamClock-Quad_Chart.pdf)<br>
++ [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/ClamClock-Quad_Chart.pdf)<br>
 + [Video Summary](https://www.youtube.com/watch?v=RfzfxHmwkTU)<br>
 + [Instructables](https://www.instructables.com/id/ClamClock-a-Binary-Timekeeper/)<br>
 + [KickStarter Project](https://www.kickstarter.com/projects/1773610279/clamclock-a-diy-binary-timekeeper)<br>
