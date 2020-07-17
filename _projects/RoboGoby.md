@@ -7,7 +7,7 @@ header:
   teaser: assets/images/robogoby/RoboGoby_CAD.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/robogoby/RoboGoby.jpg
     image_alt: "logo"
     text: "Mechanical Designer, Electronics Lead"
   - title: "Responsibilities"
@@ -42,7 +42,7 @@ RogoGoby V2 in Action:
 
 After 2015 RoboGoby was postponded due to lack of funding.
 
-**Team:**J. Biberstein, N. Nelsonwood, T. Libsack, L. Wade
+**Team:** *J. Biberstein, N. Nelsonwood, T. Libsack, L. Wade*
 
 #### Documents
 + [Quad Chart](http://www.travislibsack.com/pdfs/RoboGoby-Quad_Chart.pdf)<br>

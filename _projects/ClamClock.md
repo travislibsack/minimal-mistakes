@@ -12,8 +12,7 @@ sidebar:
     text: "Electronics Lead"
   - title: "Responsibilities"
     text: "Designing the circuit board used for ClamClock"
-  - title: "Team"
-    text: "J. Biberstein, N. Nelsonwood"
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -42,7 +41,7 @@ After completeing the design we needed to raise money and excitement -- our prod
 And finally an example of ClamClock keeping time:
 ![ClamClock Time-Keeping]({{site.baseurl}}/assets/images/clamclock/basic-timelapse.gif "Binary time-keeping")
 
-
+**Team:** *J.Biberstein, T. Libsack, N. Nelsonwood*
 #### Documents
 + [Quad Chart](http://www.travislibsack.com/pdfs/ClamClock-Quad_Chart.pdf)<br>
 + [Video Summary](https://www.youtube.com/watch?v=RfzfxHmwkTU)<br>
