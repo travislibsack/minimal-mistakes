@@ -7,13 +7,11 @@ header:
   teaser: assets/images/robogoby/RoboGoby_CAD.png
 sidebar:
   - title: "Role"
-    image: /assets/images/robogoby/RoboGoby.jpg
+    image: /assets/images/robogoby/RoboGoby_350x250.png
     image_alt: "logo"
     text: "Mechanical Designer, Electronics Lead"
   - title: "Responsibilities"
     text: "Ideating, Designing, and implementing the Mechanical & Electrical design of the submiersible"
-  - titel: "Team Members"
-    text: "J. Biberstein, N. Nelsonwood"
 gallery:
   - url: /assets/images/robogoby/full_sub-on-table.jpeg
     image_path: assets/images/robogoby/full_sub-on-table.jpeg
@@ -45,4 +43,4 @@ After 2015 RoboGoby was postponded due to lack of funding.
 **Team:** *J. Biberstein, N. Nelsonwood, T. Libsack, L. Wade*
 
 #### Documents
-+ [Quad Chart](/assets/assets/pdfs/quadcharts/RoboGoby-Quad_Chart.pdf)<br>
++ [Quad Chart](assets/pdfs/quadcharts/RoboGoby-Quad_Chart.pdf)<br>
