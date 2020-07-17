@@ -12,16 +12,6 @@ sidebar:
     text: "Mechanical Designer, Electronics Lead"
   - title: "Responsibilities"
     text: "Ideating, Designing, and implementing the Mechanical & Electrical design of the submiersible"
-gallery:
-  - url: /assets/images/robogoby/full_sub-on-table.jpeg
-    image_path: assets/images/robogoby/full_sub-on-table.jpeg
-    alt: "Completed V2 of RoboGoby"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 RoboGoby was a 3-year endeavour that involved **starting a company**, **applying for and recieving grants**, and most importantly **designing and building** a semi-autonomous underwater vehicle. 

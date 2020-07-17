@@ -5,5 +5,5 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
-author_prfile: true
+author_profile: true
 ---
