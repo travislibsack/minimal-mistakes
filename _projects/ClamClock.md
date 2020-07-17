@@ -1,6 +1,6 @@
 ---
 title: "ClamClock"
-excerpt: "A binary time-keeper used to teach kids about electronics and programming. A sucessfull **KickStarter project**.
+excerpt: "A binary time-keeper used to teach kids about electronics and programming. A sucessfull **KickStarter project**."
 layout: single
 header:
   image: /assets/images/clamclock/clamclock_title.png
