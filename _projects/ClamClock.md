@@ -3,15 +3,15 @@ title: "ClamClock"
 excerpt: "A binary Clock designed to help teach electronics and programming"
 layout: single
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/clamclock/clamclock_title.png
+  teaser: assets/images/clamclock/clamclock_title.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Electronics Designer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Designing the circuit board used for ClamClock"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -24,8 +24,25 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+ClamClock was started  with two objectives: 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+1. Create a **marketable** product. Previously I had focused entirely on the engineering and needed practice creating a marketable product.
+2. Create a and **mass-manufacture** an electronics kit to teach middle schoolers how to solder & program
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The engineering design took three design cycles to come to a finished project. Most of this involved the PCB design of the clock.
+
+![Progression of ClamClock](/assets/images/clamclock/pcb-progression.png)
+
+After completeing the design we needed to raise money and excitement -- our product needed to be marketable! To do this we started our own [KickStarter Project](https://www.kickstarter.com/projects/1773610279/clamclock-a-diy-binary-timekeeper) and raised over $3000, reaching 51 backers around th world. For our Kickstart campaign we made this introduction to our product:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RfzfxHmwkTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And finally an example of ClamClock keeping time:
+![ClamClock Time-Keeping]({{site.baseurl}}/images/clamclock/basic-timelapse.gif "Binary time-keeping")
+
+
+#### Documents
++ [Quad Chart](http://www.travislibsack.com/pdfs/ClamClock-Quad_Chart.pdf)<br>
++ [Video Summary](https://www.youtube.com/watch?v=RfzfxHmwkTU)<br>
++ [Instructables](https://www.instructables.com/id/ClamClock-a-Binary-Timekeeper/)<br>
++ [KickStarter Project](https://www.kickstarter.com/projects/1773610279/clamclock-a-diy-binary-timekeeper)<br>

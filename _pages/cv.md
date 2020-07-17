@@ -1,8 +1,7 @@
 ---
 title: CV
 layout: page
-permalink: /CV/
-collection: projects
+permalink: /cv/
 ---
 
 
