@@ -1,7 +1,8 @@
 ---
-layout: post
-
+title: Projects
+layout: collection
+permalink: /projects/
+collection: projects
+entries_layout: grid
+classes: wide
 ---
-
-
-This is the project page
