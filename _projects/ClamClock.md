@@ -1,9 +1,14 @@
 ---
 title: "ClamClock"
-excerpt: "A binary time-keeper used to teach kids about electronics and programming. A sucessfull **KickStarter project**."
+excerpt: "A binary time-keeper used to teach kids about electronics and programming. A sucessfull KickStarter project."
 layout: single
+classes: wide
 header:
-  image: /assets/images/clamclock/clamclock_title.png
+  overlay_image: /assets/images/clamclock/clamclock_title.png
+  show_overlay_excerpt: true
+  actions:
+    - label: "Project Website"
+      url: http://clamclock.com
   teaser: assets/images/clamclock/clamclock_title.png
 sidebar:
   - title: "Role"
@@ -25,7 +30,7 @@ The engineering design took three design cycles to come to a finished project. M
 
 After completeing the design we needed to raise money and excitement -- our product needed to be marketable! To do this we started our own [KickStarter Project](https://www.kickstarter.com/projects/1773610279/clamclock-a-diy-binary-timekeeper) and raised over $3000, reaching 51 backers around th world. For our Kickstart campaign we made this introduction to our product:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RfzfxHmwkTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="RfzfxHmwkTU" provider="youtube" %}
 
 And finally an example of ClamClock keeping time:
 ![ClamClock Time-Keeping]({{site.baseurl}}/assets/images/clamclock/basic-timelapse.gif "Binary time-keeping")
@@ -33,6 +38,7 @@ And finally an example of ClamClock keeping time:
 **Team:** *J.Biberstein, T. Libsack, N. Nelsonwood*
 #### Documents
 + [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/ClamClock-Quad_Chart.pdf)<br>
++ [Project Website](http://clamclock.com)<br>
 + [Video Summary](https://www.youtube.com/watch?v=RfzfxHmwkTU)<br>
 + [Instructables](https://www.instructables.com/id/ClamClock-a-Binary-Timekeeper/)<br>
 + [KickStarter Project](https://www.kickstarter.com/projects/1773610279/clamclock-a-diy-binary-timekeeper)<br>
