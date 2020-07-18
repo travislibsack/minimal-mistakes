@@ -4,7 +4,7 @@ excerpt: "A binary time-keeper used to teach kids about electronics and programm
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/clamclock/clamclock_title.png
+  overlay_image: /assets/images/clamclock/board_front.jpg
   show_overlay_excerpt: true
   actions:
     - label: "Project Website"
