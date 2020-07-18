@@ -3,9 +3,10 @@ title: "RoboGoby"
 excerpt: "RoboGoby was designed as an inexpensive alternative for underwater researchers, dam builders, and boat yards."
 layout: single
 classes: wide
+excerpt: "RoboGoby: An underwater semi-autonomous submersible"
 header:
-  image: /assets/images/robogoby/RoboGoby_CAD.png
-  caption: "RoboGoby: An underwater semi-autonomous submersible"
+  overlay_image: /assets/images/robogoby/RoboGoby_CAD.png
+  show_overlay_excerpt: true
   actions:
     - label: "Project Blog"
       url: "https://robogoby.blogspot.com"
