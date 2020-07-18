@@ -5,6 +5,10 @@ layout: single
 classes: wide
 header:
   image: /assets/images/robogoby/RoboGoby_CAD.png
+  caption: "RoboGoby: An underwater semi-autonomous submersible"
+  actions:
+    - label: "Project Blog"
+      url: "https://robogoby.blogspot.com"
   teaser: assets/images/robogoby/RoboGoby_CAD.png
 sidebar:
   - title: "Role"
@@ -35,3 +39,4 @@ After 2015 RoboGoby was postponded due to lack of funding.
 
 #### Documents
 + [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/RoboGoby-Quad_Chart.pdf)<br>
++ [Project Blog](https://robogoby.blogspot.com)
