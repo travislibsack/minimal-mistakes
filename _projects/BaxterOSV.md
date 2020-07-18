@@ -1,6 +1,6 @@
 ---
 title: "BaxterOSV"
-excerpt: "An inexpensive, robust, and simple to use ventilator for developing countries during COVID-19 outbreak in 2020"
+excerpt: "An inexpensive, robust, and simple to use ventilator for developing countries during Spring 2020 COVID-19 outbreak"
 layout: single
 classes: wide
 header:
@@ -47,5 +47,5 @@ The validation for our system was done measuring the output with external sensor
 
 #### Documents
 + [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/BaxterOSV-Quad_Chart.pdf)<br>
-+ [Thesis]({{site.baseurl}}/assets/pdfs/BaxterOSV_Final-Report.pdf)<br>
++ [Final Report]({{site.baseurl}}/assets/pdfs/BaxterOSV_Final-Report.pdf)<br>
 + [Video Example]({{site.baseurl}}/assets/images/baxterosv/May23-Prototype.MOV) 
