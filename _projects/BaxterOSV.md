@@ -4,12 +4,12 @@ excerpt: "An inexpensive, robust, and simple to use ventilator for developing co
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/baxterosv/vent-v3.png
+  overlay_image: /assets/images/baxterosv/vent-v2-onpatient.png
   show_overlay_excerpt: true
   actions:
     - label: "Final Report"
       url: "/assets/pdfs/BaxterOSV_Final-Report.pdf"
-  teaser: assets/images/baxterosv/vent-v3.png
+  teaser: assets/images/baxterosv/vent-v2-onpatient.png
 sidebar:
   - title: "Role"
     image: /assets/images/aquadio/Aquadio_350x250.png
