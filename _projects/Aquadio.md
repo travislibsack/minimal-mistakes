@@ -8,7 +8,7 @@ header:
   show_overlay_excerpt: true
   actions:
     - label: "Senior Thesis | Mechanical B.E."
-      url: "{{site.baseurl}}/pdfs/Aquadio_thesis.pdf"
+      url: "/assets/pdfs/Aquadio_thesis.pdf"
   teaser: assets/images/aquadio/aquadio-finished.jpg
 sidebar:
   - title: "Role"
@@ -21,17 +21,17 @@ gallery:
   - url: /assets/images/aquadio/aquadio-final-open.jpg
     image_path: assets/images/aquadio/aquadio-final-open.jpg
     alt: "Aquadio Devices, Opened"
-  - url: /assets/images/aquadio/aquadio-prototype-2.2
-    image_path: assets/images/aquadio/aquadio-prototype-2.2
+  - url: /assets/images/aquadio/aquadio-prototype-2.2.jpg
+    image_path: assets/images/aquadio/aquadio-prototype-2.2.jpg
     alt: "Aquadio Prototype, v2 wearable"
-  - url: /assets/images/aquadio/aquadio-prototype-2.1
-    image_path: assets/images/aquadio/aquadio-prototype-2.1
+  - url: /assets/images/aquadio/aquadio-prototype-2.1.jpg
+    image_path: assets/images/aquadio/aquadio-prototype-2.1.jpg
     alt: "Aquadio Prototype, v2 device"
-  - url: /assets/images/aquadio/aquadio-prototype-1.2
-    image_path: assets/images/aquadio/aquadio-prototype-1.2
+  - url: /assets/images/aquadio/aquadio-prototype-1.2.jpg
+    image_path: assets/images/aquadio/aquadio-prototype-1.2.jpg
     alt: "Aquadio Prototype, v1 wearable"
-  - url: /assets/images/aquadio/aquadio-prototype-1.1
-    image_path: assets/images/aquadio/aquadio-prototype-1.1
+  - url: /assets/images/aquadio/aquadio-prototype-1.1.jpg
+    image_path: assets/images/aquadio/aquadio-prototype-1.1.jpg
     alt: "Aquadio Prototype, v1 device"
 ---
 

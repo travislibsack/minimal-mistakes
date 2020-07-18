@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Project Brochure"
       url: "/assets/pdfs/Coordinate_brochure.pdf"
-  teaser: assets/images/coordinate/CoordinateFront.jpg
+  teaser: assets/images/coordinate/CoordinateFront.png
 sidebar:
   - title: "Role"
     image: /assets/images/coordinate/CoordinateOpen_350x250.jpg
