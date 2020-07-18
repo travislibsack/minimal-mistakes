@@ -4,15 +4,15 @@ excerpt: "A device to make search and rescue teams more effective | MIT Senior P
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/coordinate/coordinate_case_open.jpg
+  overlay_image: /assets/images/coordinate/CoordinateOpen.jpg
   show_overlay_excerpt: true
   actions:
     - label: "Project Brochure"
-      url: "{{site.baseurl}}/assets/pdfs/Coordinate_brochure.pdf"
-  teaser: assets/images/coordinate/coordinate_case_open.jpg
+      url: "/assets/pdfs/Coordinate_brochure.pdf"
+  teaser: assets/images/coordinate/CoordinateFront.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/coordinate/CoordinateFront_350x250.png
+    image: /assets/images/coordinate/CoordinateOpen_350x250.jpg
     image_alt: "logo"
     text: "Mechanical Lead"
   - title: "Responsibilities"
@@ -42,5 +42,5 @@ This class acted as one of my Senior Capstone Projects at MIT in the Fall of 201
 
 #### Documents
 + [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/Coordinate-Quad_Chart.pdf)<br>
-+ [Brochure]({{site.baseurl}}/assets/pdfs/coordinate_brochure.pdf)<br>
++ [Brochure]({{site.baseurl}}/assets/pdfs/Coordinate_brochure.pdf)<br>
 + [Final Presentation](https://www.youtube.com/embed/RqKSAz3yxMM?start=8309")
