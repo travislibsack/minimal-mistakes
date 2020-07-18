@@ -2,6 +2,7 @@
 title: "RoboGoby"
 excerpt: "RoboGoby was designed as an inexpensive alternative for underwater researchers, dam builders, and boat yards."
 layout: single
+classes: wide
 header:
   image: /assets/images/robogoby/RoboGoby_CAD.png
   teaser: assets/images/robogoby/RoboGoby_CAD.png
@@ -26,7 +27,7 @@ The submersbile is 4ft long, capable of 6 DOF, and has video streaming capabilit
 
 RogoGoby V2 in Action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RPjHNe_aOmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="RPjHNe_aOmc" provider="youtube" %}
 
 After 2015 RoboGoby was postponded due to lack of funding.
 
