@@ -1,6 +1,6 @@
 ---
 title: "Aquadio"
-excerpt: "A tool for underwater audio feedback | MIT Mechanical B.E. Thesis"
+excerpt: "A tool for underwater audio feedback & MIT Mechanical B.E. Thesis"
 layout: single
 classes: wide
 header:
