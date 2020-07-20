@@ -1,6 +1,6 @@
 ---
 title: "Coordinate"
-excerpt: "A device to make search and rescue teams more effective | MIT Senior Project"
+excerpt: "A device to make search and rescue teams more effective. My MIT Capstone Project"
 layout: single
 classes: wide
 header:
