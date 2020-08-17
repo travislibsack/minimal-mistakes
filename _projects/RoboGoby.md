@@ -33,7 +33,6 @@ RogoGoby V2 in Action:
 
 {% include video id="RPjHNe_aOmc" provider="youtube" %}
 
-After 2015 RoboGoby was postponded due to lack of funding.
 
 **Team:** *J. Biberstein, N. Nelsonwood, T. Libsack, L. Wade*
 
