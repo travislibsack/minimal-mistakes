@@ -1,10 +1,10 @@
 ---
 title: "Wonder Fort"
-excerpt: "Wonder Fort was a strucure designed to inspire people to love engineering.""
+excerpt: "Wonder Fort was a strucure designed to inspire people to love engineering."
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/wonderfor/wonderfort.jpg
+  overlay_image: /assets/images/wonderfort/wonderfort.jpg
   show_overlay_excerpt: true
   actions:
   teaser: assets/images/wonderfort/wonderfort_cad.png
@@ -36,7 +36,6 @@ The strucutre itself went through a few iterations and approval with MIT's archi
 As project lead I worked with my team to devleop a project booklet -- this book was full of the fort desgins and usable by anyone on the team. It helped keep construction organized and efficient, finishing after 3 days.
 
 ![Design Booklet]({{site.baseurl}}/assets/images/wonderfort/wonderfort_design-booklet.jpg "Deisgn booklet for WonderFort build")
-
 
 **Team:** *East Campus 2017 Build Team*
 
