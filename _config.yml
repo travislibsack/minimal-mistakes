@@ -20,7 +20,7 @@ title                    : "Travis Libsack"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Travis Libsack"
-description              : "An amazing website."
+description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Travis Libsack"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_1.jpg"
   bio              : "Website"
-  location         : "Working From Home"
-  email            :
+  location         : "Working from Home"
+  email            : "travis.c.libsack@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

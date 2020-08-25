@@ -4,10 +4,10 @@ excerpt: "Mobile Autonomous Systems LABoratory - Autonmous Robotics Design"
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/maslab/maslab_cad.jpg
+  overlay_image: /assets/images/maslab/maslab_finished.jpg
   show_overlay_excerpt: true
   actions:
-  teaser: assets/images/maslab/maslab_cad.png
+  teaser: assets/images/maslab/maslab_finished.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/maslab/maslab_cad_350x250.png
@@ -19,11 +19,11 @@ sidebar:
 
 **M**obile **A**utonomous **S**ystems **LAB**oratory is a 10 week fast-tracked competition held at MIT where teams compete to create an autonomous robot that compete against each-other.
 
-This was my first introduction into autonmous robotics and the mechanical design needed to account for this.
+This was my first introduction into autonmous robotics -- both from a mechanical and programming side. My role was focused on implementing a mechanical design used to collect blocks on the robot in two seperate resovoirs and deploy them before the final buzzer of the competition.
 
-By the competition our robot was able to sucessfully autonomously stack blocks and the mechanical systems performed as expected! After the competition our team continued working together and competed in MakeMIT, placing in one of the top teams.
+Our robot was able to sucessfully stack blocks and score points. After the competition our team continued working together and competed in MakeMIT, placing in one of the top teams.
 
-![Progression of ClamClock]({{site.baseurl}}/assets/images/maslab/maslab_finished.png)
+![Joebot on the Field]({{site.baseurl}}/assets/images/maslab/maslab_finished.jpg)
 
 **Team:** *M. Gu, H. Huang, A. Bubna, other*
 

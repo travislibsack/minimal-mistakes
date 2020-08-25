@@ -10,7 +10,7 @@ header:
   teaser: assets/images/wonderfort/wonderfort_cad.png
 sidebar:
   - title: "Role"
-    image: /assets/images/wonderfort/eastcampus_350x250.png
+    image: /assets/images/wonderfort/eastcampus_350x250.gif
     image_alt: "logo"
     text: "Building Lead"
   - title: "Responsibilities"

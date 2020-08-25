@@ -8,4 +8,6 @@ classes: wide
 author_profile: true
 ---
 
-# Things I'm interested in 
+## Weightlifting
+- Programming & Tracking 
+- Sqaut rack build for stength gains

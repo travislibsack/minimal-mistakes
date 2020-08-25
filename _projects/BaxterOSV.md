@@ -12,7 +12,7 @@ header:
   teaser: assets/images/baxterosv/vent-v2-onpatient.png
 sidebar:
   - title: "Role"
-    image: /assets/images/aquadio/Aquadio_350x250.png
+    image: /assets/images/baxterosv/vent-v3_350x250.png
     image_alt: "logo"
     text: "Electronics Designer, Protype Builder"
   - title: "Responsibilities"
