@@ -9,11 +9,14 @@ toc
 ---
 
 
-# CV Information Here
+### Experience
 
-## Education
+## Chartwell Consulting LLC
+# Operations Manufacturing Consultant
 
-### Work
-
+### Eduction
+# Massachusetts Institute of Technology
+B.S. in Mechanical Engineering
+Relevant Classwork: 
 #### Interests
 
