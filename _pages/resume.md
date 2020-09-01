@@ -3,8 +3,6 @@ title: Resume
 layout: single
 permalink: /resume/
 author_profile: true
-toc: true
-toc_label: "Resume"
 ---
 
 ### Experience
@@ -16,5 +14,6 @@ toc_label: "Resume"
 # Massachusetts Institute of Technology
 B.S. in Mechanical Engineering
 Relevant Classwork: 
+
 #### Interests
 
