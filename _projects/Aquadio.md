@@ -13,7 +13,7 @@ header:
 sidebar:
   - title: "Role"
     image: /assets/images/aquadio/Aquadio_350x250.png
-    image_alt: "logo"
+    image_alt: "Aquadio Logo"
     text: "Mechanical Lead"
   - title: "Responsibilities"
     text: "Product Design and Manufacturing"

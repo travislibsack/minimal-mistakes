@@ -6,14 +6,10 @@ author_profile: true
 ---
 
 ### Experience
+ - Chartwell Consulting - Operations Manufacturing Consultant | 2018 - 2020
 
-## Chartwell Consulting LLC
-# Operations Manufacturing Consultant
 
 ### Eduction
-# Massachusetts Institute of Technology
+Massachusetts Institute of Technology
 B.S. in Mechanical Engineering
 Relevant Classwork: 
-
-#### Interests
-
