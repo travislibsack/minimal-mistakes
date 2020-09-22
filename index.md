@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_image: /assets/images/splash_1.jpg
   caption: "Personal Website, Travis Libsack" 
