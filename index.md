@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/splash_gallery_interests.JPG
     alt: "Other Interests"
     title: "Other Interests"
-    excerpt: "Some of my other interests I spend time on."
+    excerpt: "Some other things I spend my time on."
 ---
 
 
