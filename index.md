@@ -2,13 +2,15 @@
 layout: splash
 permalink: /
 hidden: true
-excerpt: "I'm an engineer by training looking to make the world a better place through solving imporant problems and improving current processes. For the past two years I have worked as a continous improvement specialist at textie, chemical, and FMCG factilities."
+excerpt: "Continous improvement, manufacturing, and engineering"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash_1.jpg
   actions:
   - label: "Projects"
     url: "/projects/"
+intro:
+	excerpt: "I'm an engineer by training looking to make the world a better place through solving imporant problems and improving current processes. For the past two years I have worked as a continous improvement specialist at textie, chemical, and FMCG factilities.""
 feature_row:
   - image_path: /assets/images/splash_gallery_about.jpg
     alt: "About Image"
@@ -24,5 +26,6 @@ feature_row:
     excerpt: "Some other things I spend my time on."
 ---
 
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
