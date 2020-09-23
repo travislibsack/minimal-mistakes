@@ -26,6 +26,6 @@ feature_row:
     excerpt: "Some other things I spend my time on."
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include intro type="center" %}
 
 {% include feature_row %}
