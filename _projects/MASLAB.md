@@ -1,7 +1,6 @@
 ---
 title: "MASLAB"
-excerpt: "Mobile Autonomous Systems LABoratory - 
-Autonmous Robotics Design"
+excerpt: "Mobile Autonomous Systems LABoratory - Autonmous Robotics Design"
 layout: single
 classes: wide
 header:
@@ -26,7 +25,7 @@ Our robot was able to sucessfully stack blocks and score points. After the compe
 
 ![Joebot on the Field]({{site.baseurl}}/assets/images/maslab/maslab_finished.jpg)
 
-**Team:** *M. Gu, H. Huang, A. Bubna, other*
+**Team:** *M. Gu, H. Huang, A. Bubna*
 
 #### Documents
 + [Quad Chart]({{site.baseurl}}/assets/pdfs/quadcharts/MASLAB-Quad_Chart.pdf)<br>
