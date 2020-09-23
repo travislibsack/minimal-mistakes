@@ -13,7 +13,7 @@ feature_row:
 	- image_path: /assets/images/splash_gallery_about.jpg
 	 alt: "About"
 	 title: "About"
-	 excerpt: "Background on my professional work, expertise, and education.""
+	 excerpt: "Background on my professional work, expertise, and education."
 	 url: "/resume/"
 	 btn_label: "About"
 	 btn_class: "btn--inverse"
