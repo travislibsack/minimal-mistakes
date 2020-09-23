@@ -10,27 +10,27 @@ header:
     - label: "Projects"
       url: "/projects/"
 feature_row:
-	- image_path: /assets/images/splash_gallery_about.jpg
-	  alt: "About"
-	  title: "About"
-	  excerpt: "Background on my professional work, expertise, and education."
-	  url: "/resume/"
-	  btn_label: "About"
-	  btn_class: "btn--inverse"
-	- image_path: /assets/images/splash_gallery_projects.jpg
-	  alt: "Projects"
-	  title: "Projects"
-	  excerpt: "The best projects I've worked on, a sample of the work I've been apart of."
-	  url: "/projects/"
-	  btn_label: "All Projects"
-	  btn_class: "btn--inverse"
-	 - image_path: /assets/images/splash_gallery_interests.jpg
-	  alt: "Other Interests"
-	  title: "Other Interests"
-	  excerpt: "Some of my other interests I spend time on."
-	  url: "/interests/"
-	  btn_label: "Interests"
-	  btn_class: "btn--inverse"
+  - image_path: /assets/images/splash_gallery_about.jpg
+	alt: "About"
+	title: "About"
+	excerpt: "Background on my professional work, expertise, and education."
+	url: "/resume/"
+	btn_label: "About"
+	btn_class: "btn--inverse"
+  - image_path: /assets/images/splash_gallery_projects.jpg
+	alt: "Projects"
+	title: "Projects"
+	excerpt: "The best projects I've worked on, a sample of the work I've been apart of."
+ 	url: "/projects/"
+	btn_label: "All Projects"
+	btn_class: "btn--inverse"
+  - image_path: /assets/images/splash_gallery_interests.jpg
+	alt: "Other Interests"
+	title: "Other Interests"
+	excerpt: "Some of my other interests I spend time on."
+	url: "/interests/"
+	btn_label: "Interests"
+	btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
