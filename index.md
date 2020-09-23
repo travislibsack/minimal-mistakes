@@ -10,9 +10,8 @@ header:
   - label: "Projects"
     url: "/projects/"
 feature_row:
-	id: "intro"
+  - id: "intro"
 	excerpt: "I'm an engineer by training looking to make the world a better place through solving imporant problems and improving current processes. For the past two years I have worked as a continous improvement specialist at textie, chemical, and FMCG factilities."
-feature_row:
   - image_path: /assets/images/splash_gallery_about.jpg
     alt: "About Image"
     title: "About"
