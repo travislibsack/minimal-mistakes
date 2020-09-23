@@ -14,11 +14,11 @@ feature_row:
     alt: "About Image"
     title: "About"
     excerpt: "Background on my professional work, expertise, and education."
-  - image_path: /assets/images/splash_gallery_projects.jpg"
+  - image_path: /assets/images/splash_gallery_projects.jpg
     alt: "Projects"
     title: "Projects"
     excerpt: "My favorite projects I've worked on, a sample of the work I've been apart of."
-  - image_path: /assets/images/splash_gallery_interests.jpg
+  - image_path: /assets/images/splash_gallery_interests.JPG
     alt: "Other Interests"
     title: "Other Interests"
     excerpt: "Some of my other interests I spend time on."
