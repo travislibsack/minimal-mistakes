@@ -1,6 +1,7 @@
 ---
 title: "MASLAB"
-excerpt: "Mobile Autonomous Systems LABoratory - Autonmous Robotics Design"
+excerpt: "Mobile Autonomous Systems LABoratory - 
+Autonmous Robotics Design"
 layout: single
 classes: wide
 header:
