@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/splash_1.jpg
   excerpt: Home page for Travis Libsack's projects 
   actions:
-    - label: <a href="/projects/" class="btn btn--primary">Link Text</a>
+    - label: "Projects"
       url: "/projects/"
 feature_row:
 	- image_path: /assets/images/splash_gallery_about.jpg
