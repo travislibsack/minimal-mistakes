@@ -9,4 +9,13 @@ header:
   actions:
     - label: "Projects"
       url: "/projects/"
+feature_row:
+  - image_path: /assets/images/splash_gallery_about.jpg
+    alt: "About Image"
+    title: "About"
+    excerpt: "Background on my professional work, expertise, and education."
+    
 ---
+
+
+{% include feature_row %}
