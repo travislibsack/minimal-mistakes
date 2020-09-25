@@ -16,7 +16,7 @@ An improvement expert known across five different manufacturing sites through wo
 A company I co-founded in 2014 with the mission of using engineering to solve the world’s future problems. Read more on our website!
 
 ##### Limbeck Projects
-- [COVID-19 Ventilator]({{ site.baseurl}}{% link _projects/BaxterOSV.md %}) - *Open Source ventilaor designed to work in developing countries with little or not hospital infastructure*
+- [COVID-19 Ventilator]({{ site.baseurl }}{% link _projects/BaxterOSV.md %}) - *Open Source ventilaor designed to work in developing countries with little or not hospital infastructure*
  - [ClamClock]({{ site.baseurl }}{% link _projects/ClamClock.md %}) - *Technology kit designed to teach kids about programming and electronics*
  - [RoboGoby]({{ site.baseurl }}{% link _projects/RoboGoby.md %}) - *Underwater submersible enigineered to meet the needs of researchers and business in the Gulf of Maine*
 
