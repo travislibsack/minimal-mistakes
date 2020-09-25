@@ -2,30 +2,30 @@
 layout: splash
 permalink: /
 hidden: true
-excerpt: "Continous improvement, manufacturing, and engineering"
+excerpt: "Engineer, Continuous Improver with "
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash_1.jpg
   actions:
   - label: "Projects"
     url: "/projects/"
+intro:
+	excerpt: "Mechanical engineer interested in unlocking the potential behind processes and effective teamwork. With over two and a half years in manufacturing leading continuous improvement teams I have saved clients over $14.5M. I am interested in continuing to use my technical background and *team* expertise to make an impact at US technology and manufacturing companies."
 feature_row:
-  - id: "intro"
-    excerpt: "I'm an engineer by training looking to make the world a better place through solving imporant problems and improving current processes. For the past two years I have worked as a continous improvement specialist at textie, chemical, and FMCG factilities."
   - image_path: /assets/images/splash_gallery_about.jpg
     alt: "About Image"
     title: "About"
-    excerpt: "Background on my professional work, expertise, and education."
+    excerpt: "Background on my professional experience, personal expertise, and education. Includes my resume and portfoilio."
   - image_path: /assets/images/splash_gallery_projects.jpg
     alt: "Projects"
     title: "Projects"
-    excerpt: "My favorite projects I've worked on, a sample of the work I've been apart of."
+    excerpt: "Favorite projects I have worked on and been apart of. Includes examples of engineering projects I've acomplished with effective teams."
   - image_path: /assets/images/splash_gallery_interests.JPG
-    alt: "Other Interests"
-    title: "Other Interests"
-    excerpt: "Some other things I spend my time on."
+    alt: "Interests"
+    title: "Interests"
+    excerpt: "Interests I spend time on outside of work that make me more effective at what I do"
 ---
 
-{% include intro type="center" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
