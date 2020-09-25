@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Snapshots of my work experience and expertise. You can download my full resume [here]({{ site.baseurl }}{% link assets/pdfs/resume_full_2020.pdf})
+Snapshots of my work experience and expertise. You can download my full resume [here]({{ site.baseurl }}{% link assets/pdfs/resume_full_2020.pdf %})
 
 ### Experience
  - **Manufacturing Operations Consultant II** - [Chartwell Consulting](https://www.chartwell-consulting.com) 2018 to Present
