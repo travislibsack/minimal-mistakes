@@ -16,9 +16,9 @@ An improvement expert known across five different manufacturing sites through wo
 A company I co-founded in 2014 with the mission of using engineering to solve the world’s future problems. Read more on our website!
 
 ##### Limbeck Projects
-- [COVID-19 Ventilator]({{site.baseurl}}/projects/BaxterOSV.md) - *Open Source ventilaor designed to work in developing countries with little or not hospital infastructure*
- - [ClamClock]({{site.baseurl}}/projects/ClamClock.md) - *Technology kit designed to teach kids about programming and electronics*
- - [RoboGoby]({{site.baseurl}}/projects/RoboGoby.md) - *Underwater submersible enigineered to meet the needs of researchers and business in the Gulf of Maine*
+- [COVID-19 Ventilator]({{site.baseurl}}/projects/BaxterOSV/) - *Open Source ventilaor designed to work in developing countries with little or not hospital infastructure*
+ - [ClamClock]({{site.baseurl}}/projects/ClamClock/) - *Technology kit designed to teach kids about programming and electronics*
+ - [RoboGoby]({{site.baseurl}}/projects/RoboGoby/) - *Underwater submersible enigineered to meet the needs of researchers and business in the Gulf of Maine*
 
 ---
 
@@ -35,6 +35,6 @@ A company I co-founded in 2014 with the mission of using engineering to solve th
 
 ---
 
-### Eduction
+### Education
 - **Massachusetts Institute of Technology** B.S. in Mechanical Engineering **GPA: 4.6/5.0**
 	- Thesis: [Aquadio: Wearable Product Development]({{site.baseurl}}/assets/pdfs/Aquadio_thesis.pdf)
