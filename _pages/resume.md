@@ -9,10 +9,10 @@ classes: wide
 Snapshots of my work experience and expertise. You can download my full resume [here]({{ site.baseurl }}{% link assets/pdfs/resume_full_2020.pdf})
 
 ### Experience
- - **Manufacturing Operations Consultant II** - [Chartwell Consulting](www.chartwell-consulting.com) 2018 to Present
+ - **Manufacturing Operations Consultant II** - [Chartwell Consulting](https://www.chartwell-consulting.com) 2018 to Present
 An improvement expert known across five different manufacturing sites through working with experienced personnel to understand manufacturing processes, identify constraints, and provide insight on where to best spend time and money. 
 
-- **Partner** - [Limbeck Engineering LLC](www.limbeckengineering.com)
+- **Partner** - [Limbeck Engineering LLC](http://www.limbeckengineering.com)
 A company I co-founded in 2014 with the mission of using engineering to solve the world’s future problems. Read more on our website!
 
 ##### Limbeck Projects
