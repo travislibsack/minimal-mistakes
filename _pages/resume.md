@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Snapshots of my work experience and expertise. You can download my full resume [here]({{ site.baseurl }}{% link assets/pdfs/resume_full_2020.pdf %})
+Snapshots of my work experience and expertise. You can download my full resume [here]({{ site.baseurl }}{% link /assets/pdfs/resume_full_2020.pdf %})
 
 ### Experience
  - **Manufacturing Operations Consultant II** - [Chartwell Consulting](https://www.chartwell-consulting.com) 2018 to Present
@@ -37,4 +37,4 @@ A company I co-founded in 2014 with the mission of using engineering to solve th
 
 ### Eduction
 - **Massachusetts Institute of Technology** B.S. in Mechanical Engineering **GPA: 4.6/5.0**
-	- Thesis: [Aquadio: Wearable Product Development]({{ site.baseurl }}{% link assets/pdfs/aquadio_thesis.pdf %})
+	- Thesis: [Aquadio: Wearable Product Development]({{ site.baseurl }}{% link /assets/pdfs/aquadio_thesis.pdf %})
