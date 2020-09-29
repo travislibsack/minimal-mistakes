@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/splash_1.jpg
   actions:
   - label: "More about me"
+    btn_class: "btn--primary"
     url: "/resume/"
 intro:
   - excerpt: "Mechanical engineer interested in unlocking the potential behind processes and effective teamwork. With over two and a half years in manufacturing leading continuous improvement teams I have saved clients over $14.5M. I am interested in continuing to use my technical background and *team* expertise to make an impact at US technology and manufacturing companies."
