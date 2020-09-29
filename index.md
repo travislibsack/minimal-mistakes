@@ -11,7 +11,7 @@ header:
     btn_class: "btn--primary"
     url: "/resume/"
 intro:
-  - excerpt: "Mechanical engineer interested in unlocking the potential behind processes and effective teamwork. With over two and a half years in manufacturing leading continuous improvement teams I have saved clients over $14.5M. I am interested in continuing to use my technical background and *team* expertise to make an impact at US technology and manufacturing companies."
+  - excerpt: "Mechanical engineer interested in **unlocking the potential behind processes and effective teamwork**. With over two and a half years in manufacturing leading continuous improvement teams I have **saved clients over $14.5M**. I am interested in continuing to use my technical background and team expertise to make an impact at US technology and manufacturing companies."
 feature_row:
   - image_path: /assets/images/splash_gallery_about.jpg
     alt: "About Image"
