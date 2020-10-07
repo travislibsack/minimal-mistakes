@@ -15,6 +15,7 @@ sidebar:
     text: "Mechanical Lead"
   - title: "Responsibilities"
     text: "Desinging mechanical systems on robot to pick and stack wooden cubes."
+order: 2
 ---
 
 **M**obile **A**utonomous **S**ystems **LAB**oratory is a 10 week fast-tracked competition held at MIT where teams compete to create an autonomous robot that compete against each-other.

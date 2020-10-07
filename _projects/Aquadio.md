@@ -33,6 +33,7 @@ gallery:
   - url: /assets/images/aquadio/aquadio-prototype-1.1.jpg
     image_path: assets/images/aquadio/aquadio-prototype-1.1.jpg
     alt: "Aquadio Prototype, v1 device"
+order: 7
 ---
 
 *Aquadio* is my college senior thesis. It was designed to fit with my interests and something I wanted to spend more time on was **how to structure** and **effectively run** a startup developing a new product. The main goals of *Aquadio* were:

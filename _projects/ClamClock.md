@@ -17,6 +17,7 @@ sidebar:
     text: "Electronics Lead"
   - title: "Responsibilities"
     text: "Designing the circuit board used for ClamClock"
+order: 5
 ---
 
 ClamClock was started  with two objectives: 

@@ -16,23 +16,23 @@ feature_row:
   - image_path: /assets/images/splash_gallery_about.jpg
     alt: "About Image"
     title: "About"
-    excerpt: "Background on my professional experience, expertise, and education. Includes my resume and portfoilio."
+    excerpt: "Background on my professional experience, expertise, and education. Includes my resume and link to portfolio documents."
     url: "/resume/"
-    btn_label: "Professional Background"
+    btn_label: "Professional Experience"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_gallery_projects.jpg
     alt: "Projects"
     title: "Projects"
-    excerpt: "Favorite projects I have worked on and been apart of. Includes examples of engineering projects I've acomplished with effective teams."
+    excerpt: "My favorite projects that have taught me about engineering, teamwork, and grit. None of them have made a world-wide impact, yet."
     url: "/projects/"
     btn_label: "Learn More..."
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_gallery_interests.JPG
     alt: "Interests"
     title: "Interests"
-    excerpt: "Interests I spend time on outside of work that make me more effective at what I do"
+    excerpt: "Interests outside of work and projects, what I spend my other time on and what I like to do."
     url: "/interests/"
-    btn_label: "My Interests..."
+    btn_label: "Other Interests..."
     btn_class: "btn--primary"
 ---
 

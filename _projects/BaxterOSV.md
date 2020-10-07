@@ -27,6 +27,7 @@ gallery:
   - url: /assets/images/baxterosv/vent-v3.png
     image_path: assets/images/baxterosv/vent-v3.png
     alt: "Ventilator, v3"
+order: 8
 ---
 
 The COVID-19 crisis in 2020 posed an extreme threat to under-developed countries. Wite their lack of medical equipment and infrastructure needed for ventilators, they were going to be stuck without the equipment needed to effectively fight the dieases. The Baxter Open Source Ventilator (BaxterOSV) was designed to work in under-developed countries with limited access to medical supply chains. The design utilizes **off-the-shelf components** and a design that **creates its own pressure** to ventilate patients, not needing expensive hospital infrastructure.

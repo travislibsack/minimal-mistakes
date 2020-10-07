@@ -27,6 +27,7 @@ gallery:
   - url: /assets/images/coordinate/handheld_3.jpg
     image_path: assets/images/coordinate/handheld_3.jpg
     alt: "Coordiante Handheld iso-back"
+order: 6
 ---
 
 Coordinate was designed to help search and rescue (SAR) teams coordinate resources and increase the efficiency of early search coverage, helping with over 50,000+ SAR missions that happen in the US each year. Using a combination of GPS and radio it creates a mesh network and a centralized base station. 

@@ -17,6 +17,7 @@ sidebar:
     text: "Mechanical Designer, Electronics Lead"
   - title: "Responsibilities"
     text: "Ideating, Designing, and implementing the Mechanical & Electrical design of the submiersible"
+order: 1
 ---
 
 RoboGoby was a 3-year endeavour that involved **starting a company**, **applying for and recieving grants**, and most importantly **designing and building** a semi-autonomous underwater vehicle. 

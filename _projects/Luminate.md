@@ -24,6 +24,7 @@ gallery:
   - url: /assets/images/luminate/luminate_final-setup.jpg
     image_path: assets/images/luminate/luminate_final-setup.jpg
     alt: "Luminate Final Setup"
+order: 3
 ---
 
 Luminate was a room lighting projcet I made in 2017 to learn how to design and assemble surface mount components using [KiCad](https://kicad-pcb.org/), an open-source PCB design software (alternative to Eagle CAD).

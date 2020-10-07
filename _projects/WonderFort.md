@@ -25,6 +25,7 @@ gallery:
   - url: /assets/images/wonderfort_wonderfort_2nd-floor.jpg
     image_path: assets/images/wonderfort/wonderfort_2nd-floor.jpg
     alt: "2nd Floor of WonderFort"
+order: 4
 ---
 
 Wonder Fort was designed to inspire incoming MIT Freshman to see the impact engineering can have in the real world -- not only was it a massive strucutre, but it was constructed and designed by current MIT students!
