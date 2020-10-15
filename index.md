@@ -11,28 +11,28 @@ header:
     btn_class: "btn--primary"
     url: "/resume/"
 intro:
-  - excerpt: "Mechanical engineer interested in **unlocking the potential behind processes and effective teamwork**. With over two and a half years in manufacturing leading continuous improvement teams I have **saved clients over $14.5M**. I am interested in continuing to use my technical background and team expertise to make an impact at US technology and manufacturing companies."
+  - excerpt: "Mechanical engineer interested in **unlocking the potential behind processes and effective teamwork**. With over two and a half years in manufacturing leading continuous improvement teams I have **saved clients over $14.5M** through increases in output and reduction in harmful waste. I will continue to use my technical background and expertise to work with engineering teams in order to make an impact at US technology and manufacturing companies."
 feature_row:
   - image_path: /assets/images/splash_gallery_about.jpg
     alt: "About Image"
     title: "About"
-    excerpt: "Background on my professional experience, expertise, and education. Includes my resume and link to portfolio documents."
+    excerpt: "Background on my professional experience, expertise, and education. Includes my resume and portfolio."
     url: "/resume/"
     btn_label: "Professional Experience"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_gallery_projects.jpg
     alt: "Projects"
     title: "Projects"
-    excerpt: "My favorite projects that have taught me about engineering, teamwork, and grit. None of them have made a world-wide impact, yet."
+    excerpt: "My favorite projects that have taught me about engineering, teamwork, and grit."
     url: "/projects/"
     btn_label: "Learn More..."
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_gallery_interests.JPG
     alt: "Interests"
     title: "Interests"
-    excerpt: "Interests outside of work and projects, what I spend my other time on and what I like to do."
+    excerpt: "Interests outside my career and engineering projects."
     url: "/interests/"
-    btn_label: "Other Interests..."
+    btn_label: "Other Interests"
     btn_class: "btn--primary"
 ---
 

@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Travis Libsack"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Engineer, Continuous Improver, Team Leader" # site tagline that appears below site title in masthead
 name                     : "Travis Libsack"
 description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Travis Libsack"
   avatar           : "/assets/images/profile_1.jpg"
-  bio              : "Website"
+  bio              : "Engineer using technology and teamwork to make the world a better place."
   location         : "Working from Home"
   email            : "travis@travislibsack.com"
   links:
