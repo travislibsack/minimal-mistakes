@@ -7,46 +7,46 @@ entries_layout: grid
 classes: wide
 author_profile: true
 gallery:
-  - url: /assets/images/weightlifting/rack1.png
-    image_path: assets/images/weightlifting/rack1.png
+  - url: /assets/images/weightlifting/rack1.JPG
+    image_path: assets/images/weightlifting/rack1.JPG
     alt: "Starting beams"
-  - url: /assets/images/weightlifting/rack2.png
-    image_path: assets/images/weightlifting/rack2.png
+  - url: /assets/images/weightlifting/rack2.JPG
+    image_path: assets/images/weightlifting/rack2.JPG
     alt: "DDrilling holes" 
-  - url: /assets/images/weightlifting/rack3.png
-    image_path: assets/images/weightlifting/rack3.png
+  - url: /assets/images/weightlifting/rack3.JPG
+    image_path: assets/images/weightlifting/rack3.JPG
     alt: "4 Beams ready for assembly"
-  - url: /assets/images/weightlifting/rack4.png
-    image_path: assets/images/weightlifting/rack4.png
+  - url: /assets/images/weightlifting/rack4.JPG
+    image_path: assets/images/weightlifting/rack4.JPG
     alt: "Beams joints"
-  - url: /assets/images/weightlifting/rack5.png
-    image_path: assets/images/weightlifting/rack5.png
+  - url: /assets/images/weightlifting/rack5.JPG
+    image_path: assets/images/weightlifting/rack5.JPG
     alt: "Sides assembled"
-  - url: /assets/images/weightlifting/rack6.png
-    image_path: assets/images/weightlifting/rack6.png
+  - url: /assets/images/weightlifting/rack6.JPG
+    image_path: assets/images/weightlifting/rack6.JPG
     alt: "Completed rack"
-  - url: /assets/images/weightlifting/rack7.png
-    image_path: assets/images/weightlifting/rack7.png
+  - url: /assets/images/weightlifting/rack7.JPG
+    image_path: assets/images/weightlifting/rack7.JPG
     alt: "Completed rack #2"
 
 gallery2:
-  - url: /assets/images/vanlife/van-1.png
-    image_path: assets/images/vanlife/van-1.png
+  - url: /assets/images/vanlife/van-1.JPG
+    image_path: assets/images/vanlife/van-1.JPG
     alt: "Starting point outside"
-  - url: /assets/images/vanlife/van1-1.png
-    image_path: assets/images/vanlife/van1-1.png
+  - url: /assets/images/vanlife/van1-1.JPG
+    image_path: assets/images/vanlife/van1-1.JPG
     alt: "Starting point inside" 
-  - url: /assets/images/vanlife/van-2.png
-    image_path: assets/images/vanlife/van-2.png
+  - url: /assets/images/vanlife/van-2.JPG
+    image_path: assets/images/vanlife/van-2.JPG
     alt: "In progress interior"
-  - url: /assets/images/vanlife/van-3.png
-    image_path: assets/images/vanlife/van-3.png
+  - url: /assets/images/vanlife/van-3.JPG
+    image_path: assets/images/vanlife/van-3.JPG
     alt: "*Almost* end point"
-  - url: /assets/images/vanlife/van-4.png
-    image_path: assets/images/vanlife/van-4.png
+  - url: /assets/images/vanlife/van-4.JPG
+    image_path: assets/images/vanlife/van-4.JPG
     alt: "Adding supplies"
-  - url: /assets/images/vanlife/van-5.png
-    image_path: assets/images/vanlife/van-5.png
+  - url: /assets/images/vanlife/van-5.JPG
+    image_path: assets/images/vanlife/van-5.JPG
     alt: "Parking lot in Michigan"
 ---
 
