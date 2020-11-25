@@ -17,7 +17,7 @@ feature_row:
     alt: "About Image"
     title: "About"
     excerpt: "Background on my professional experience, expertise, and education. Includes my resume and portfolio."
-    url: "/resume/"
+    url: "/about/"
     btn_label: "Professional Experience"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_gallery_projects.jpg
