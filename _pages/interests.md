@@ -6,7 +6,7 @@ collection: interests
 entries_layout: grid
 classes: wide
 author_profile: true
-gallery2:
+gallery:
   - url: /assets/images/weightlifting/rack1.png
     image_path: assets/images/weightlifting/rack1.png
     alt: "Starting beams"
