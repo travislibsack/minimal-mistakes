@@ -25,14 +25,14 @@ Highlights of my work experience and expertise. To lean more, download my [resum
 ---
 
 ## Skills - Mechanical and Sofware
-##### Mechanical
+#### Mechanical
 <br>**Advanced:** Laser cutting, additive manufacturing, benchtop metalworking and woodworking
 <br>**Proficient:** Manual & CNC Machining (mill, lathe, router table), soldering (inclduing SMD & reflow)
 <br>**Expereince:** Design for manufacturing in injection molding, thermoforming, and silicone molding
-##### Software
-<br>**Advanced:**Microsoft Office Products (Excel, PowerPoint,Word,Access), unix systems
-<br>**Proficient:**Solidworks, OnShape, Fusion360, MasterCAM, and KiCAD
-<br>**Experience:**Modeling in MATLAB, python, and c++
+#### Software
+<br>**Advanced:** Microsoft Office Products (Excel, PowerPoint, Word, Access), unix systems
+<br>**Proficient:** Solidworks, OnShape, Fusion360, MasterCAM, KiCAD, python
+<br>**Experience:** Modeling in MATLAB, c++
 
 ---
 
