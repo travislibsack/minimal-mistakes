@@ -14,6 +14,9 @@ Highlights of my work experience and expertise. To lean more, download my [resum
  - **Manufacturing Operations Consultant** - [Chartwell Consulting](https://www.chartwell-consulting.com) *2018 to Present*
 <br>An **improvement expert known across five different manufacturing sites** through working with experienced personnel to understand manufacturing processes, identify constraints, and provide insight on where to best spend time and money. Strong team leader and project organizer who has saved clients **over $14.5m annually** in output increases and waste reduction.
 
+- **Engineering Intern** – [Atlas Devices](https://atlasdevices.com/) *Summer 2017*
+<br> Completed the design of a new user interface on a battery powered vertical rope access device
+
 - **Partner** - [Limbeck Engineering LLC](http://www.limbeckengineering.com) *2014 - Present*
 <br>A company I co-founded in 2014 with the mission of using engineering to solve the world’s future problems. I continue to work with this team on important engineering projects each year.
 
@@ -30,8 +33,8 @@ Highlights of my work experience and expertise. To lean more, download my [resum
 <br>**Proficient:** Manual & CNC Machining (mill, lathe, router table), soldering (inclduing SMD & reflow)
 <br>**Expereince:** Design for manufacturing in injection molding, thermoforming, and silicone molding
 #### Software
-<br>**Advanced:** Microsoft Office Products (Excel, PowerPoint, Word, Access), unix systems
-<br>**Proficient:** Solidworks, OnShape, Fusion360, MasterCAM, KiCAD, python
+<br>**Advanced:** Microsoft Office Products (Excel, PowerPoint, Word, Access)
+<br>**Proficient:** Solidworks, OnShape, Fusion360, MasterCAM, KiCAD, python, Linux/unix systems
 <br>**Experience:** Modeling in MATLAB, c++
 
 ---
