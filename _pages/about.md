@@ -8,7 +8,7 @@ classes: wide
 
 Mechanical engineer interested in **unlocking the potential behind processes and effective teamwork**. With over two and a half years in manufacturing leading continuous improvement teams I have **saved clients over $14.5M** through increases in output and reduction in harmful waste. I will continue to use my technical background and expertise to work with engineering teams in order to make an impact at US technology and manufacturing companies.
 
-Highlights of my work experience and expertise. To lean more, download my [resume]({{site.baseurl}}/assets/pdfs/201102_TravisLibsack_Resume.pdf) and [portfolio]({{site.baseurl}}/assets/pdfs/2020Portfolio_TravisLibsack.pdf)
+Highlights of my work experience and expertise. To lean more, download my [resume]({{site.baseurl}}/assets/pdfs/2020_RESUME_v4_GENERAL.pdf) and [portfolio]({{site.baseurl}}/assets/pdfs/2020Portfolio_TravisLibsack.pdf)
 
 ## Experience 
  - **Manufacturing Operations Consultant** - [Chartwell Consulting](https://www.chartwell-consulting.com) *2018 to Present*
